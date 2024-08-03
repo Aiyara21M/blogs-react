@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(12, 67, 104);
+}
+.logo{
+    margin-right: auto;
+    padding-left: 10px;
+    color:white;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 12px;
+    font-size: 15px;
+    padding: 5px;
+    margin-right: 12px;
+}
+a:hover{
+    color: black;
+}
